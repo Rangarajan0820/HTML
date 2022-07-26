@@ -39,7 +39,7 @@ dt:hover{
   font-size:20px;
     position: sticky;
  background-color: SlateBlue;
-  
+  transition: width 2s;
   top: 0;
   left: 0;
   margin: 1em 0;

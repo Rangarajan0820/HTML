@@ -1,0 +1,51 @@
+h1{
+  text-align: center;
+color:red;
+  }
+h1:hover{
+color:blue;
+}
+.box {
+    float: right; /* right, none, inherit கொடுக்கலாம் */
+    width: 100px;
+    height: 100px;
+    margin-right: 25px;
+    }
+
+dd{
+  font-family:"Serif",Times New Roman,Georgia;
+
+}
+dd:hover{
+font-family: "Monospace", Courier New,
+Lucida Console,
+Monaco;
+}
+dt{
+color:black;
+  font-size:20px;
+    position: sticky;
+ background-color: DodgerBlue;
+  
+  top: 0;
+  left: 0;
+  margin: 1em 0;
+}
+dt:hover{
+  color:black;
+  font-size:20px;
+    position: sticky;
+ background-color: SlateBlue;
+  
+  top: 0;
+  left: 0;
+  margin: 1em 0;
+}
+.first{
+  padding-left:20px;
+text-align:left;
+}
+.secound{
+padding-right:35px;
+  text-align:right;
+}
